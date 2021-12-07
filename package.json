@@ -1,0 +1,9 @@
+{
+  "name": "jira-logger",
+  "version": "1.0.0",
+  "description": "jira work log helper",
+  "main": "index.js",
+  "repository": "https://github.com/NickChen14/jira-logger",
+  "author": "Nick Chen",
+  "license": "MIT"
+}
